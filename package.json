@@ -1,0 +1,11 @@
+{
+  "name": "clase10-hardlizard",
+  "version": "1.0.0",
+  "description": "trabajo practico de NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Facundo Ferreyra",
+  "license": "ISC"
+}
